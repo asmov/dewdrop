@@ -1,3 +1,15 @@
+### ASMOV IGNORES
+.idea/
+.vscode/
+
+### GITHUB IGNORES: Rust
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+### GITHUB IGNORES: Python
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
