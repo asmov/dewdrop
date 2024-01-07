@@ -3,6 +3,7 @@
 .vscode/
 
 ### GITHUB IGNORES: Rust
+ 
 debug/
 target/
 Cargo.lock
@@ -10,6 +11,7 @@ Cargo.lock
 *.pdb
 
 ### GITHUB IGNORES: Python
+ 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -170,3 +172,40 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+### GITHUB IGNORE: Android
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
