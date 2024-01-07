@@ -11,6 +11,7 @@ Packages
 
 Documents
 ---------
+- [Guide: Ubuntu Desktop 21.04](./docs/guides/ubuntu-desktop/v21.04/README.md)
 - [Design Notes](./docs/design/README.md) : Project design notes and reference material
 - [Roadmap](./docs/Roadmap.md) : Planned fixes and enhancements
 - [Copying](./COPYING.txt) : The GPL3 licensing declaration as displayed below.
