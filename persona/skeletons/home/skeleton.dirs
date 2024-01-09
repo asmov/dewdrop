@@ -1,0 +1,15 @@
+.
+./local
+./local/bin
+./local/var
+./any
+./any/documents
+./any/sync
+./any/projects
+./any/pictures
+./any/templates
+./any/.ssh-keys
+./any/public
+./any/music
+./any/desktop
+./desktop
