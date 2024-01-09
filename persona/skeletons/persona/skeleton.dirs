@@ -4,8 +4,9 @@
 ./sync/git
 ./sync/gitlab
 ./vault
-./vault/gpg
-./vault/ssh
+./vault/keys
+./vault/keys/gpg
+./vault/keys/ssh
 ./multimedia
 ./multimedia/documents
 ./multimedia/images
@@ -13,7 +14,6 @@
 ./multimedia/screenshots
 ./multimedia/sounds
 ./multimedia/videos
-./multimedia/data
 ./multimedia/pictures
 ./multimedia/templates
 ./multimedia/templates/image
@@ -23,9 +23,12 @@
 ./multimedia/templates/model
 ./multimedia/templates/document
 ./multimedia/music
-./multimedia/books
+./multimedia/text
 ./projects
 ./shared
 ./shared/public
+./data
+./data/backups
 ./filing
-./backups
+./tmp
+./downloads
